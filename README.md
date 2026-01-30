@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 ¡Hola! Soy David Aliaga
+# 👋 ¡Hola! Soy David
 
 Bienvenido a mi perfil. Estos son proyectos destacados que hice:
 
